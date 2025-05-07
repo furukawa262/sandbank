@@ -1,0 +1,10 @@
+{
+  "name": "sandbank",
+  "version": "0.1.0",
+  "description": "unified agent workspace",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
