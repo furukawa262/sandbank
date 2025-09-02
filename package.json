@@ -1,6 +1,6 @@
 {
   "name": "sandbank",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "unified agent workspace",
   "main": "src/index.ts",
   "scripts": {
